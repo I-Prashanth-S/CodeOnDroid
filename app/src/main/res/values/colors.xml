@@ -8,4 +8,5 @@
     <color name="DungGreen">#ADAE63</color>
     <color name="FadeYellow">#F0EEA6</color>
     <color name="FadeRed">#ffcccb</color>
+    <color name="colorBackground">#BCE5F8</color>
 </resources>
