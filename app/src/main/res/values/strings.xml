@@ -13,4 +13,5 @@
     <string name="walkthrough">App Walkthrough</string>
     <string name="about">An Android App for competitive programming in your mobile.</string>
     <string name="about_app">about</string>
+    <string name="title_activity_app_map">Map</string>
 </resources>
